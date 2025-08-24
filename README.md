@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection using Custom Logistic Regression
+# Credit Card Fraud Detection using Custom Logistic Regression and Gradient Descent
 
 ## Project Overview
 
